@@ -1,6 +1,8 @@
 # Environments
 venv/
 .venv/
+venv_for_project1_aaidc_git/
+.venv_for_project1_aaidc_git
 
 
 # Environment variables
